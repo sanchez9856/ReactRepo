@@ -1,13 +1,15 @@
-{/* <div id="parent">
-  <div id="child">
-    <h1>This is an h1</h1>
-    <h2> This is an h2 </h2>
-  </div>
-  <div id="child2">
-    <h1>This is an h1</h1>
-    <h2> This is an h2 </h2>
-  </div>
-</div>; */}
+// {/* <div id="parent">
+//   <div id="child">
+//     <h1>This is an h1</h1>
+//     <h2> This is an h2 </h2>
+//   </div>
+//   <div id="child2">
+//     <h1>This is an h1</h1>
+//     <h2> This is an h2 </h2>
+//   </div>
+// </div>; */}
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const parent = React.createElement(
   "div",
@@ -15,7 +17,7 @@ const parent = React.createElement(
   [React.createElement(
     "div",
     { id: "child" },
-    [React.createElement("h1", {}, "This is an h1"),
+    [React.createElement("h1", {}, "Hello there, this is h1"),
     React.createElement("h2", {}, "This is an h2")]
   ),
   React.createElement(
