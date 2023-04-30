@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is a react project",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"parcel index.html",
+    "prodbuild":"parcel build index.html"
   },
   "repository": {
     "type": "git",
