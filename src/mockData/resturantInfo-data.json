@@ -1,0 +1,82 @@
+[
+    {
+        "id":"1",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Subway",
+        "cuisines":"Healthy foods,Salads,Snacks,Desserts,Bevrages",
+        "rating":4.4,
+        "deliveryTime":"25 mins",
+        "price":"350 for two",
+        "cloudinaryID":"0bf19a82b109b40c2f5c56d00f071a33"
+    },
+    {
+        "id":"2",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Chennai Square",
+        "cuisines":"South Indian,Beverages",
+        "rating":4.5,
+        "deliveryTime":"25 mins",
+        "price":"500 for two",
+        "cloudinaryID":"nvewu7g2dhwkb2msqhlq"
+    },
+    {
+        "id":"3",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"MaggiWala",
+        "cuisines":"Beverages,Chinese,Fastfood",
+        "rating":4.3,
+        "deliveryTime":"30 mins",
+        "price":"150 for two",
+        "cloudinaryID":"qj8jrhtldkzbdg71qdra"
+    },
+    {
+        "id":"4",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Keventers Ice Cream",
+        "cuisines":"Ice Creams,Desserts",
+        "rating":4.5,
+        "deliveryTime":"20 mins",
+        "price":"200 for two",
+        "cloudinaryID":"5220cf2d5049dd54b0fb98bbb3d5a652"
+    },
+    {
+        "id":"5",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Chappan Bhog",
+        "cuisines":"Sweets",
+        "rating":4.4,
+        "deliveryTime":"23 mins",
+        "price":"150 for two",
+        "cloudinaryID":"dqwmoswehtnlrusw7lct"
+    },
+    {
+        "id":"6",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Flurys",
+        "cuisines":"Desserts,Fastfood,Bakery",
+        "rating":4.1,
+        "deliveryTime":"22 mins",
+        "price":"500 for two",
+        "cloudinaryID":"abddeb7452383092efdd77a7d55eb1c9"
+    },
+    {
+        "id":"7",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Oven of Heaven",
+        "cuisines":"Indian,Bengali,Thali",
+        "rating":4.6,
+        "deliveryTime":"32 mins",
+        "price":"250 for two",
+        "cloudinaryID":"kq4pigwbbnu3mrcbh2gs"
+    },
+    {
+        "id":"8",
+        "imgUrl":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/",
+        "resturantName":"Kurry Patta",
+        "cuisines":"North Indian,South Indian",
+        "rating":4.6,
+        "deliveryTime":"30 mins",
+        "price":"250 for two",
+        "cloudinaryID":"rvlboizmtleecj8xzdbr"
+    }
+]

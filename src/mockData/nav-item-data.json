@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "001",
+        "name" : "Offers",
+        "imgURL" : "offers.png"
+    },
+    {
+        "id" : "002",
+        "name" : "Help",
+        "imgURL" : "help.png"
+    },
+    {
+        "id" : "003",
+        "name" : "Profile",
+        "imgURL" : "profile.png"
+    },
+    {
+        "id" : "004",
+        "name" : "Cart",
+        "imgURL" : "cart.png"
+    }
+]

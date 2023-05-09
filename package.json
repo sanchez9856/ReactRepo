@@ -4,8 +4,8 @@
   "description": "This is a react project",
   "scripts": {
     "test": "jest",
-    "start":"parcel index.html",
-    "prodbuild":"parcel build index.html"
+    "start": "parcel index.html",
+    "prodbuild": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sanchez9856/ReactRepo#readme",
   "devDependencies": {
+    "json-loader": "^0.5.7",
     "parcel": "^2.8.3",
     "process": "^0.11.10"
   },
@@ -25,5 +26,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserslist":["last 2 version"]
+  "browserslist": [
+    "last 2 version"
+  ]
 }

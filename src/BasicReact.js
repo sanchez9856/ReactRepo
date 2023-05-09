@@ -37,10 +37,10 @@ const reactEle = (
 // embedding react component inside another component
 // embedding react element inside a functional compnent -> we use {}
 // we can include any piece of JS code inside functional comp using {}
-// React Fragments -> They act as parent component and are not visible in html (<> </>)
+// React Fragments -> They act as parent component and are not visible in html
 const HeadingComponent = () => (
   <>
-    <div id="container">
+  <div id="container">
       <Title />
       {heading}
       <h2 id="heading">This is h1 tag from React component</h2>
