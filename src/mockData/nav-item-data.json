@@ -1,12 +1,12 @@
 [
     {
         "id" : "001",
-        "name" : "Offers",
+        "name" : "About Us",
         "imgURL" : "offers.png"
     },
     {
         "id" : "002",
-        "name" : "Help",
+        "name" : "Contact Us",
         "imgURL" : "help.png"
     },
     {

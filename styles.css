@@ -112,3 +112,27 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
+.shimmer-container{
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.shimmer-div{
+    background-color: lightgrey;
+    width: 254px;
+    height: 295px;
+    margin: 30px 20px;
+}
+
+.link-container{
+    text-decoration: none;
+    color: black;
+}
+
+.link-rescard{
+    text-decoration: none;
+    color: black;
+}

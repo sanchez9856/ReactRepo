@@ -1,6 +1,7 @@
 import resturantData from "../mockData/resturantInfo-data.json";
 import ResturantCard from "./ResturantCard";
 import { useState, useEffect } from "react";
+import Shimmer from "./Shimmer";
 
 const Body = () => {
   const [allResturantData, setallResturantData] = useState(null);
@@ -28,7 +29,7 @@ const Body = () => {
 
   // conditional rendering
 
-  return ((allResturantData === null) ? <h1>Loading data</h1> :
+  return ((allResturantData === null) ? <Shimmer/> :
     (<div className="body">
       <div className="search-bar-container">
         <input className="input-box" type="text" placeholder="Search"  value= {searchText} onChange={(e) => setSearchText(e?.target?.value)}></input>
