@@ -27,13 +27,9 @@ const ResturantMenu = () => {
     <Shimmer />
   ) : (
     <div className="resturantmenu-container">
-      <h1>{resturantMenuData?.title}</h1>
+      <h1>{resturantMenuData.title}</h1>
       <ul>
-        {
-
-        
-        
-        resturantMenuData?.itemCards?.map((data) => <li>{data?.card?.info?.name}</li>)}
+        {resturantMenuData?.itemCards?.map((data) => <li>{data?.card?.info?.name}</li>)}
       </ul>
     </div>
   );
