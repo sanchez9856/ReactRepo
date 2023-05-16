@@ -9,12 +9,15 @@ async function getResturantMenu(resId, setResturantMenuData) {
     "&submitAction=ENTER";
   const response = await fetch(resturantMenuUrl);
   const resturantMenu = await response.json();
-  setResturantMenuData(resturantMenu?.data?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]?.card?.card);
+  setResturantMenuData(
+    resturantMenu?.data?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1]
+      ?.card?.card
+  );
 }
 
 const ResturantMenu = () => {
   const { resturantId } = useParams();
-  const [resId, setResId] = useState(resturantId);
+  const [resId] = useState(resturantId);
   const [resturantMenuData, setResturantMenuData] = useState(null);
   console.log(resturantMenuData);
 
@@ -22,14 +25,15 @@ const ResturantMenu = () => {
     getResturantMenu(resId, setResturantMenuData);
   }, []);
 
-
   return resturantMenuData === null ? (
     <Shimmer />
   ) : (
     <div className="resturantmenu-container">
       <h1>{resturantMenuData.title}</h1>
       <ul>
-        {resturantMenuData?.itemCards?.map((data) => <li>{data?.card?.info?.name}</li>)}
+        {resturantMenuData?.itemCards?.map((data) => (
+          <li>{data?.card?.info?.name}</li>
+        ))}
       </ul>
     </div>
   );
