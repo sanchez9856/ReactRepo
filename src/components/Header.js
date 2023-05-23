@@ -5,13 +5,13 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="header">
+    <div className=" flex bg-green-200 justify-between shadow-md">
       <div className="logo-container">
         <Link to="/">
-          <img className="logo-img" src={LOGO_URL} alt="app-logo" />
+          <img className="h-24 p-2 w-28" src={LOGO_URL} alt="app-logo" />
         </Link>
       </div>
-      <div className="nav-container">
+      <div className="flex justify-evenly">
         {navItemData.map((data) => (
           <NavItems key={data.id} itemName={data.name} />
         ))}

@@ -14,18 +14,17 @@ const ResturantCard = ({ resData }) => {
   } = resData;
   const cuisineString = cuisines.join(", ");
   return (
-    <Link className="link-rescard" to={"/resturant" + "/" + id}>
-      <div className="resturant-card">
-        <img
-          className="resturant-image"
-          src={IMG_URL + cloudinaryImageId}
-        ></img>
-        <div className="res-name">{name}</div>
-        <div className="res-cuisine">{cuisineString}</div>
-        <div className="wrapping-container">
-          <div className="res-rating">{avgRating}</div>
-          <div className="res-delivery-time">{deliveryTime + " mins"}</div>
-          <div className="res-price">{costForTwoString}</div>
+    <Link to={"/resturant" + "/" + id}>
+      <div className="w-64 h-72 mt-8 ml-5 mb-8 mr-5 p-5 relative hover:shadow-2xl hover:shadow-gray-700">
+        <img className="w-60 h-40" src={IMG_URL + cloudinaryImageId}></img>
+        <div className="text-base font-sans font-medium">{name}</div>
+        <div className="w-full h-fit text-gray-700 text-base font-sans font-light leading-4 tracking-normal">
+          {cuisineString}
+        </div>
+        <div className="flex absolute bottom-0">
+          <div className="">{avgRating}</div>
+          <div className="ml-4">{deliveryTime + " mins"}</div>
+          <div className="res-price ml-4">{costForTwoString}</div>
         </div>
       </div>
     </Link>

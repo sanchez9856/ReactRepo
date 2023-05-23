@@ -2,11 +2,13 @@ import { Link } from "react-router-dom";
 
 const NavItems = ({ itemName }) => {
   return (
-    <Link  className="link-container" to = {itemName.split(" ").join("").toLowerCase()}>
-      <div className="nav-item-container">
-        <p className="nav-item-val">{itemName}</p>
-      </div>
-    </Link>
+    <div className="">
+      <Link className="mr-28" to={itemName.split(" ").join("").toLowerCase()}>
+        <p className="text-center mt-7 font-medium font-sans text-lg">
+          {itemName}
+        </p>
+      </Link>
+    </div>
   );
 };
 

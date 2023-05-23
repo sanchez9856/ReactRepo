@@ -34,17 +34,17 @@ const Body = () => {
   return allResturantData === null ? (
     <Shimmer />
   ) : (
-    <div className="body">
-      <div className="search-bar-container">
+    <div className="mt-4">
+      <div className="flex justify-center">
         <input
-          className="input-box"
+          className="w-2/4 h-8 border border-gray-300 rounded-l-lg shadow-inner shadow-gray-300"
           type="text"
           placeholder="Search"
           value={searchText}
           onChange={(e) => setSearchText(e?.target?.value)}
         ></input>
         <button
-          className="search-btn"
+          className="bg-green-100 font-medium rounded-r-lg w-24 hover:bg-green-700 hover:text-white"
           type="submit"
           onClick={() => {
             filterResturantData(searchText, allResturantData);
@@ -53,7 +53,7 @@ const Body = () => {
           Search
         </button>
       </div>
-      <div className="rescard-container">
+      <div className="mt-4 flex flex-row flex-wrap justify-around">
         {filteredResturantData?.length > 0 ? (
           filteredResturantData.map(({ data }) => (
             <ResturantCard key={data.id} resData={data} />
