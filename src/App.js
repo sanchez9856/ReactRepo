@@ -1,7 +1,7 @@
 /**
  * Here we will build a static ui for a food delivery app
  */
-import React from "react";
+import React, { createContext } from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
@@ -10,7 +10,7 @@ import Error from "./components/Error";
 import ResturantMenu from "./components/ResturantMenu";
 import Profile from "./components/ProfileClass";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, createContext } from "react";
 
 const AboutUs = lazy(() => import("./components/AboutUs"));
 
