@@ -8,10 +8,22 @@ const useRestaurantMenuData = (resturantId) => {
     let resturantMenuUrl = RESTAURANT_MENU_URL + resId + SUBMIT_ACTION;
     const response = await fetch(resturantMenuUrl);
     const resturantMenu = await response.json();
-    setResturantMenuData(
+    // setResturantMenuData(filteredRestaurantMenu.card.card);
+
+    if (
       resturantMenu?.data?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR
-        ?.cards[1]?.card?.card
-    );
+        ?.cards[1]?.card?.card.title === "Recommended"
+    ) {
+      setResturantMenuData(
+        resturantMenu?.data?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR
+          ?.cards[1]?.card?.card
+      );
+    } else {
+      setResturantMenuData(
+        resturantMenu?.data?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR
+          ?.cards[2]?.card?.card
+      );
+    }
   }
 
   useEffect(() => {

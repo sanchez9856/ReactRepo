@@ -9,17 +9,22 @@ import Contact from "./components/Contact";
 import Error from "./components/Error";
 import ResturantMenu from "./components/ResturantMenu";
 import Profile from "./components/ProfileClass";
+import Cart from "./components/Cart";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import { lazy, Suspense, createContext } from "react";
+import { Provider } from "react-redux";
+import store from "./utils/store";
 
 const AboutUs = lazy(() => import("./components/AboutUs"));
 
 const AppLayout = () => {
   return (
-    <div className="parent-container">
-      <Header />
-      <Outlet />
-    </div>
+    <Provider store={store}>
+      <div className="parent-container">
+        <Header />
+        <Outlet />
+      </div>
+    </Provider>
   );
 };
 
@@ -49,6 +54,10 @@ const appRouter = createBrowserRouter([
       {
         path: "profile",
         element: <Profile />,
+      },
+      {
+        path: "cart",
+        element: <Cart />,
       },
       {
         path: "resturant/:resturantId",
