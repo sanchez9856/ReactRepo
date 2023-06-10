@@ -21,7 +21,7 @@ const Cart = () => {
       >
         Clear Cart
       </button>
-      <div className=" flex flex-col items-center">
+      <div data-testid="cart-div" className=" flex flex-col items-center">
         {cartItems.length === 0 ? (
           <h1 className=" text-2xl">You're cart is empty</h1>
         ) : (

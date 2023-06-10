@@ -1,0 +1,2749 @@
+{
+    "statusCode": 0,
+    "data": {
+      "cacheExpiryTime": 320,
+      "pages": 1,
+      "pageIndex": 0,
+      "scrubber": 0,
+      "filters": [
+        {
+          "type": "FilterWidget",
+          "title": "Cuisines",
+          "key": "CUISINES",
+          "configType": "checkbox",
+          "visible": 1,
+          "options": [
+            {
+              "option": " Limited Stocks!",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "American",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Arabian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Asian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Awadhi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Bakery",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Bangladeshi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Barbecue",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Bengali",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Beverages",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Bihari",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Biryani",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "British",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Burgers",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Burmese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Cafe",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Chaat",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Chinese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Coastal",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Combo",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Continental",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "DIY Meal Kits",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Desserts",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "European",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Fast Food",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Free Delivery",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Free Delivery ! Limited Stocks!",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "French",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Goan",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Grill",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Healthy Food",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Home Food",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Hyderabadi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Ice Cream",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Ice Cream Cakes",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Indian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Indonesian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Italian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Italian-American",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Japanese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Juices",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Kebabs",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Kerala",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Keto",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Korean",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Lebanese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Lucknowi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Malaysian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Meat",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Mediterranean",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Mexican",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Middle Eastern",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Mughlai",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Nepalese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "North Eastern",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "North Indian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Oriental",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Paan",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Pan-Asian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Parsi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Pastas",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Pizzas",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Portuguese",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Punjabi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Salads",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Seafood",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Singaporean",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Snacks",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "South Indian",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Spanish",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Steakhouse",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Street Food",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Sushi",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Sweets",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Tandoor",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Tex-Mex",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Thai",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Thalis",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Tibetan",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Tribal",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Turkish",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Use Code 15OFF to avail",
+              "selected": 0,
+              "visible": 1
+            },
+            {
+              "option": "Waffle",
+              "selected": 0,
+              "visible": 1
+            }
+          ],
+          "detail": "",
+          "heading": "Cuisines",
+          "applicable": 1,
+          "searchable": 1
+        },
+        {
+          "type": "FilterWidget",
+          "title": "Show Restaurants With",
+          "key": "SHOW_RESTAURANTS_WITH",
+          "configType": "checkbox",
+          "visible": 1,
+          "options": [
+            {
+              "option": "Pure Veg",
+              "selected": 0,
+              "visible": 1
+            }
+          ],
+          "detail": "",
+          "heading": "Offers & More",
+          "applicable": 1,
+          "searchable": 0
+        }
+      ],
+      "sorts": [
+        {
+          "type": "SortWidget",
+          "key": "RELEVANCE",
+          "title": "Relevance",
+          "selected": 1,
+          "visible": 1,
+          "defaultSelection": true
+        },
+        {
+          "type": "SortWidget",
+          "key": "DELIVERY_TIME",
+          "title": "Delivery Time",
+          "selected": 0,
+          "visible": 1,
+          "defaultSelection": false
+        },
+        {
+          "type": "SortWidget",
+          "key": "RATING",
+          "title": "Rating",
+          "selected": 0,
+          "visible": 1,
+          "defaultSelection": false
+        },
+        {
+          "type": "SortWidget",
+          "key": "COST_FOR_TWO",
+          "title": "Cost: Low to High",
+          "selected": 0,
+          "visible": 1,
+          "defaultSelection": false
+        },
+        {
+          "type": "SortWidget",
+          "key": "COST_FOR_TWO_H2L",
+          "title": "Cost: High to Low",
+          "selected": 0,
+          "visible": 1,
+          "defaultSelection": false
+        }
+      ],
+      "configs": {
+        "ribbons": {
+          "PREORDER": {
+            "type": "PREORDER",
+            "text": "Preorder",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#af2330",
+            "priority": 3
+          },
+          "EXCLUSIVE": {
+            "type": "EXCLUSIVE",
+            "text": "Exclusive",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#fa4a5b",
+            "bottomBackgroundColor": "#d12a3b",
+            "priority": 2
+          },
+          "NEW": {
+            "type": "NEW",
+            "text": "Newly Added",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#d53d4c",
+            "bottomBackgroundColor": "#af2330",
+            "priority": 4
+          },
+          "REPEAT": {
+            "type": "REPEAT",
+            "text": "Repeat",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#D53D4C",
+            "bottomBackgroundColor": "#B02331",
+            "priority": 6
+          },
+          "CLOUD": {
+            "type": "CLOUD",
+            "text": "Daily Menus",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#fa4a5b",
+            "bottomBackgroundColor": "#d12a3b",
+            "priority": 5
+          },
+          "PREMIUM": {
+            "type": "PREMIUM",
+            "text": "Premium",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#8a584b",
+            "bottomBackgroundColor": "#583229",
+            "priority": 7
+          },
+          "PROMOTED": {
+            "type": "PROMOTED",
+            "text": "Promoted",
+            "textColor": "#ffffff",
+            "imageId": "sfefefefeegeg",
+            "topBackgroundColor": "#3a3c41",
+            "bottomBackgroundColor": "#1e2023",
+            "priority": 1
+          }
+        },
+        "croutons": {
+          "RAIN": {
+            "type": "Crouton",
+            "bgColor": "#282C3F",
+            "icon": "surge_listing_piuzrv",
+            "textColor": "#ffffff",
+            "title": "Bad Weather",
+            "message": "${amount} extra levied on some restaurants"
+          },
+          "SERVICEABLE_WITH_BANNER_RAIN": {
+            "type": "Crouton",
+            "bgColor": "#282C3F",
+            "icon": "rain_crouton_4x",
+            "textColor": "#ffffff",
+            "title": "Bad Weather",
+            "message": "Few restaurants unserviceable due to rains"
+          },
+          "RAIN_LOW": {
+            "type": "Crouton",
+            "bgColor": "#282C3F",
+            "icon": "surge_listing_piuzrv",
+            "textColor": "#ffffff",
+            "title": "Bad Weather",
+            "message": "Your orders may be delayed by 5-10 mins"
+          },
+          "RAIN_HIGH": {
+            "type": "Crouton",
+            "bgColor": "#282C3F",
+            "icon": "surge_listing_piuzrv",
+            "textColor": "#ffffff",
+            "title": "Bad Weather",
+            "message": "Your orders may be delayed by 5-10 mins"
+          },
+          "SPECIAL": {
+            "type": "Crouton",
+            "bgColor": "#282C3F",
+            "icon": "surge_listing_piuzrv",
+            "textColor": "#ffffff",
+            "title": "High Demand",
+            "message": "Surge fee of Rs ${amount} may be applicable"
+          }
+        }
+      },
+      "cards": [
+        {
+          "cardType": "carousel",
+          "layoutAlignmentType": "VERTICAL",
+          "data": {
+            "type": "carousel",
+            "subtype": "topCarousel",
+            "data": {
+              "cards": [
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 378981,
+                    "creativeId": "rng/md/carousel/production/ef3i0k1ilhdsistcykog",
+                    "type": "restaurantCollectionV2",
+                    "link": "56407",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "thirdPartyVendor": "",
+                    "thirdPartyAddress": false
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 304928,
+                    "creativeId": "rng/md/carousel/production/awurei8ypqkafoqay9ym",
+                    "type": "restaurantCollectionV2",
+                    "link": "47668",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "thirdPartyVendor": "",
+                    "thirdPartyAddress": false
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 619141,
+                    "creativeId": "rng/md/carousel/production/zpkkdkmvlj5cuvqbc50t",
+                    "type": "restaurantCollectionV2",
+                    "link": "56413",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "thirdPartyVendor": "",
+                    "thirdPartyAddress": false
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 607195,
+                    "creativeId": "rng/md/carousel/production/ifi2lbzxeu1hvsqrsip3",
+                    "type": "restaurantCollectionV2",
+                    "link": "56421",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "thirdPartyVendor": "",
+                    "thirdPartyAddress": false
+                  }
+                }
+              ]
+            }
+          },
+          "parentWidget": false
+        },
+        {
+          "cardType": "carousel",
+          "layoutAlignmentType": "VERTICAL",
+          "data": {
+            "type": "carousel",
+            "subtype": "openFilter",
+            "data": {
+              "cards": [
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 181684,
+                    "creativeId": "bkhjfipzydkoqncrxpyi",
+                    "type": "restaurantCollectionV2",
+                    "link": "11718",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "title": "Offers Near You",
+                    "subtitle": "0 OPTIONS",
+                    "restaurants": [
+                      
+                    ],
+                    "totalCount": 0,
+                    "dwebOpenFilterTitle": "Offers Near You",
+                    "dwebOpenFilterBgColor": "#FF0000",
+                    "dwebOpenFilterSelectIcon": "eyperwsfhaoa5vktjtu4",
+                    "dwebOpenFilterDeselectIcon": "urw8usdf4mk9aywd59gq"
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 273242,
+                    "creativeId": "rng/md/carousel/production/vquntqrzvkb08pe59cec",
+                    "type": "restaurantCollectionV2",
+                    "link": "46147",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "title": "Top Picks",
+                    "subtitle": "0 OPTIONS",
+                    "restaurants": [
+                      
+                    ],
+                    "totalCount": 0,
+                    "dwebOpenFilterTitle": "Top Picks",
+                    "dwebOpenFilterBgColor": "#FF0000",
+                    "dwebOpenFilterSelectIcon": "rng/md/carousel/production/vt13uzhjrg5r49kh9oru",
+                    "dwebOpenFilterDeselectIcon": "rng/md/carousel/production/ser2sttildk9yt7t2s91"
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 181674,
+                    "creativeId": "azawtyrnrxqibiivimxe",
+                    "type": "restaurantCollectionV2",
+                    "link": "49083",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "title": "Premium",
+                    "subtitle": "0 OPTIONS",
+                    "restaurants": [
+                      
+                    ],
+                    "totalCount": 0,
+                    "dwebOpenFilterTitle": "Premium",
+                    "dwebOpenFilterBgColor": "#FF0000",
+                    "dwebOpenFilterSelectIcon": "marketing-dashboard/carousel/bslg595hrlkv5aia4ihy",
+                    "dwebOpenFilterDeselectIcon": "marketing-dashboard/carousel/ftnsdmo6fotidtzobbm2"
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 181685,
+                    "creativeId": "auhzanqqslsq5meh0m9l",
+                    "type": "restaurantCollectionV2",
+                    "link": "11709",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "title": "Only on Swiggy",
+                    "subtitle": "0 OPTIONS",
+                    "restaurants": [
+                      
+                    ],
+                    "totalCount": 0,
+                    "dwebOpenFilterTitle": "Only on Swiggy",
+                    "dwebOpenFilterBgColor": "#FF0000",
+                    "dwebOpenFilterSelectIcon": "tvjhvfzjhbxune2idler",
+                    "dwebOpenFilterDeselectIcon": "y4vnumwu4f8olsly1hnw"
+                  }
+                },
+                {
+                  "type": "carouselElement",
+                  "subtype": "image",
+                  "data": {
+                    "bannerId": 181680,
+                    "creativeId": "a3jqjjod5taken7dh1bs",
+                    "type": "restaurantCollectionV2",
+                    "link": "11721",
+                    "cityId": 0,
+                    "restaurantUuid": "",
+                    "restaurantParentId": "0",
+                    "title": "Veg Only",
+                    "subtitle": "0 OPTIONS",
+                    "restaurants": [
+                      
+                    ],
+                    "totalCount": 0,
+                    "dwebOpenFilterTitle": "Vegetarian Options",
+                    "dwebOpenFilterBgColor": "#FF0000",
+                    "dwebOpenFilterSelectIcon": "qtjc8dzfexg72lug37a0",
+                    "dwebOpenFilterDeselectIcon": "bm8bziikwyvwqsml1clm"
+                  }
+                }
+              ]
+            }
+          },
+          "parentWidget": false
+        },
+        {
+          "cardType": "seeAllRestaurants",
+          "layoutAlignmentType": "VERTICAL",
+          "data": {
+            "type": "seeAllRestaurants",
+            "data": {
+              "title": "SEE ALL",
+              "totalOpenRestaurants": 1697,
+              "cards": [
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "292634",
+                    "name": "Chapter 2",
+                    "uuid": "e8d6342c-1577-48a3-b2b6-0c70f07c1e8e",
+                    "city": "7",
+                    "area": "Southern Avenue",
+                    "totalRatingsString": "1000+ ratings",
+                    "cloudinaryImageId": "dp0pvputepbkat41duth",
+                    "cuisines": [
+                      "Continental",
+                      "European",
+                      "Italian",
+                      "Pastas"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 120000,
+                    "costForTwoString": "₹1200 FOR TWO",
+                    "deliveryTime": 37,
+                    "minDeliveryTime": 37,
+                    "maxDeliveryTime": 37,
+                    "slaString": "37 MINS",
+                    "lastMileTravel": 1.5,
+                    "slugs": {
+                      "restaurant": "chapter-2-south-kolkata-south-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "P 562, Hemanta Mukhopadhyay sarani, Kolkata 700029",
+                    "locality": "",
+                    "parentId": 10768,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7064141~p=1~eid=00000188-9bb4-ced2-098d-b1cd00a00107",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.5 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹175 OFF",
+                      "subHeader": "ABOVE ₹999",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "292634",
+                      "deliveryTime": 37,
+                      "minDeliveryTime": 37,
+                      "maxDeliveryTime": 37,
+                      "lastMileTravel": 1.5,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "4.4",
+                    "totalRatings": 1000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "13922",
+                    "name": "Wow! Momo",
+                    "uuid": "f694fbfd-ec6d-4b6f-8cbf-ffab78eec81d",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "90ac3da2963978f866177263fba805a7",
+                    "cuisines": [
+                      "Tibetan",
+                      "Healthy Food",
+                      "Asian",
+                      "Chinese",
+                      "Snacks",
+                      "Continental",
+                      "Desserts",
+                      "Beverages"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 29,
+                    "minDeliveryTime": 29,
+                    "maxDeliveryTime": 29,
+                    "slaString": "29 MINS",
+                    "lastMileTravel": 0.6000000238418579,
+                    "slugs": {
+                      "restaurant": "wow-momo-ice-skating-ring-central-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "53/5A, Hazra Road, Near Ballygunge Phari Auto Stand, Ballygunge, Kolkata",
+                    "locality": "Ballygunge",
+                    "parentId": 1776,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "0.6 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "50% OFF",
+                      "subHeader": "UPTO ₹100",
+                      "discountTag": "",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "13922",
+                      "deliveryTime": 29,
+                      "minDeliveryTime": 29,
+                      "maxDeliveryTime": 29,
+                      "lastMileTravel": 0.6000000238418579,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.5",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "94438",
+                    "name": "Adil Biryani Centre",
+                    "uuid": "153c4315-b1e0-46a2-b9fc-12ad3e601b9a",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "bhbqorbug0ioe8sza9ff",
+                    "cuisines": [
+                      "Biryani"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 31,
+                    "minDeliveryTime": 31,
+                    "maxDeliveryTime": 31,
+                    "slaString": "31 MINS",
+                    "lastMileTravel": 2.299999952316284,
+                    "slugs": {
+                      "restaurant": "adil-biryani-centre-park-circus-area-central-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "38, Shamsul Huda Road, Park Circus Area, Kolkata-17",
+                    "locality": "shamshul road Park Circus",
+                    "parentId": 27122,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "2.2 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "15% OFF",
+                      "subHeader": "ABOVE ₹500",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "94438",
+                      "deliveryTime": 31,
+                      "minDeliveryTime": 31,
+                      "maxDeliveryTime": 31,
+                      "lastMileTravel": 2.299999952316284,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "642696",
+                    "name": "Sugar Bakes ",
+                    "uuid": "fa9dfbef-0ac2-48f4-a5ae-e374622567a0",
+                    "city": "7",
+                    "area": "Alipore",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "90012597629321295211c3881c8bb0af",
+                    "cuisines": [
+                      "Biryani"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 51,
+                    "minDeliveryTime": 51,
+                    "maxDeliveryTime": 51,
+                    "slaString": "51 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                      "restaurant": "sugar-bakes-by-the-griddles-bakery-alipore-alipore",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "10B GOUR MOHAN GHOSHE ROAD , KOLKATA  MUNICIPAL CORPORATION, Kolkata, West  Bengal-700025",
+                    "locality": "Gour mohan ghoshe road",
+                    "parentId": 390192,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=6911847~p=4~eid=00000188-9bb4-ced2-098d-b1ce00a0047e",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "30% OFF",
+                      "subHeader": "ABOVE ₹1500",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "642696",
+                      "deliveryTime": 51,
+                      "minDeliveryTime": 51,
+                      "maxDeliveryTime": 51,
+                      "lastMileTravel": 1.600000023841858,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "91293",
+                    "name": "Dhaba Junction",
+                    "uuid": "79370f80-d97a-4718-b67d-244111b6b294",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "o4y3flzczs5vg7oqq7es",
+                    "cuisines": [
+                      "North Indian"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 30,
+                    "minDeliveryTime": 30,
+                    "maxDeliveryTime": 30,
+                    "slaString": "30 MINS",
+                    "lastMileTravel": 1.399999976158142,
+                    "slugs": {
+                      "restaurant": "dhaba-junction-ballygunge-central-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "51,Bondel Road,Ward No-65, Borough-VIII,Kolkata Municipal Corporation,Kolkata,West Bengal",
+                    "locality": "Near Deys Medical Bus Stand, Bondel Road",
+                    "parentId": 15850,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.3 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹125 OFF",
+                      "subHeader": "ABOVE ₹249",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "91293",
+                      "deliveryTime": 30,
+                      "minDeliveryTime": 30,
+                      "maxDeliveryTime": 30,
+                      "lastMileTravel": 1.399999976158142,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "5251",
+                    "name": "Bachan's Dhaba",
+                    "uuid": "838517fb-7fa1-4349-81fa-0603cd8afdc4",
+                    "city": "7",
+                    "area": "Kalighat",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "ggez5y5emtvp50kbtd8s",
+                    "cuisines": [
+                      "North Indian",
+                      "Chinese"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 25000,
+                    "costForTwoString": "₹250 FOR TWO",
+                    "deliveryTime": 41,
+                    "minDeliveryTime": 41,
+                    "maxDeliveryTime": 41,
+                    "slaString": "41 MINS",
+                    "lastMileTravel": 2.299999952316284,
+                    "slugs": {
+                      "restaurant": "bachans-dhaba-south-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "T 39A, Rash Behari Avenue, Kalighat , Kolkata India",
+                    "locality": "Near Kalighat Metro, Rash Behari Avenue",
+                    "parentId": 6136,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "2.2 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "10% OFF",
+                      "subHeader": "ABOVE ₹700",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "5251",
+                      "deliveryTime": 41,
+                      "minDeliveryTime": 41,
+                      "maxDeliveryTime": 41,
+                      "lastMileTravel": 2.299999952316284,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "720505",
+                    "name": "Yum Yum Korean Bucket",
+                    "uuid": "babc12b4-3f79-4a6f-a534-a767758b1040",
+                    "city": "7",
+                    "area": "South Kolkata",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "e4bc4222c145d4d85fe7bd4b886d3b5f",
+                    "cuisines": [
+                      "Fast Food",
+                      "Korean",
+                      "Chinese",
+                      "Beverages"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 50,
+                    "minDeliveryTime": 50,
+                    "maxDeliveryTime": 50,
+                    "slaString": "50 MINS",
+                    "lastMileTravel": 1.600000023841858,
+                    "slugs": {
+                      "restaurant": "yum-yum-korean-bucket-south-kolkata-south-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "121/2, DR. MEGHNAD SAHA SARANI, GROUND FLOOR AND MEZANNINE FLOOR, WARD NO.86, KOLKATA MUNICIPAL CORPORATION, Kolkata, West Bengal- 700029",
+                    "locality": "Ward No 86",
+                    "parentId": 429257,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7067553~p=7~eid=00000188-9bb4-ced2-098d-b1cf00a00737",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.6 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "60% OFF",
+                      "subHeader": "UPTO ₹100",
+                      "discountTag": "",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "720505",
+                      "deliveryTime": 50,
+                      "minDeliveryTime": 50,
+                      "maxDeliveryTime": 50,
+                      "lastMileTravel": 1.600000023841858,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": true
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "3031",
+                    "name": "Sharma Dhaba",
+                    "uuid": "461b130a-1bcc-491e-8fc8-26393d0e82ac",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "dbqgbvrs2cznuxf67w8h",
+                    "cuisines": [
+                      "North Indian",
+                      "Tandoor",
+                      "Biryani",
+                      "Kebabs",
+                      "Snacks",
+                      "Chinese"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 39,
+                    "minDeliveryTime": 39,
+                    "maxDeliveryTime": 39,
+                    "slaString": "39 MINS",
+                    "lastMileTravel": 1.7000000476837158,
+                    "slugs": {
+                      "restaurant": "sharma-dhaba-ballygunge-prince-anwar-shah-road-area",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "17/1B, Ballygunge Circular Road, Near Ballygunge Maidan Camp, Ballygunge, Kolkata 700019 India",
+                    "locality": "Ballygunge Circular Road, Ballygunge Maidan Camp, Ballygunge",
+                    "parentId": 13766,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.7 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹125 OFF",
+                      "subHeader": "ABOVE ₹249",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "3031",
+                      "deliveryTime": 39,
+                      "minDeliveryTime": 39,
+                      "maxDeliveryTime": 39,
+                      "lastMileTravel": 1.7000000476837158,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.1",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "431485",
+                    "name": "FOODIE FOLKS",
+                    "uuid": "9dce93a2-b16e-43c5-9e23-f4b73613abcb",
+                    "city": "7",
+                    "area": "Rajdanga Chakraborty Para",
+                    "totalRatingsString": "100+ ratings",
+                    "cloudinaryImageId": "1fe39218a7a72fae9e6311b8bcd47f92",
+                    "cuisines": [
+                      "North Indian",
+                      "Chinese",
+                      "Bengali",
+                      "Beverages"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 20000,
+                    "costForTwoString": "₹200 FOR TWO",
+                    "deliveryTime": 42,
+                    "minDeliveryTime": 42,
+                    "maxDeliveryTime": 42,
+                    "slaString": "42 MINS",
+                    "lastMileTravel": 3.700000047683716,
+                    "slugs": {
+                      "restaurant": "foodie-folks-ruby-area-ruby-area",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "68, RAJDANGA CHAKRABORTY PARA\t700107",
+                    "locality": "Ruby Area",
+                    "parentId": 262065,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 4000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 4000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "4000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=7052914~p=10~eid=00000188-9bb4-ced2-098d-b1d000a00a66",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "3.7 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "60% OFF",
+                      "subHeader": "UPTO ₹100",
+                      "discountTag": "",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "431485",
+                      "deliveryTime": 42,
+                      "minDeliveryTime": 42,
+                      "maxDeliveryTime": 42,
+                      "lastMileTravel": 3.700000047683716,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "4.3",
+                    "totalRatings": 100,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "304650",
+                    "name": "Chowman",
+                    "uuid": "89dc79e9-cabc-4e15-938e-ea60adad783a",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "5000+ ratings",
+                    "cloudinaryImageId": "shz4jqcmtpqpoihcbq4r",
+                    "cuisines": [
+                      "Chinese",
+                      "Thai",
+                      "Seafood",
+                      "Beverages",
+                      "Desserts"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 70000,
+                    "costForTwoString": "₹700 FOR TWO",
+                    "deliveryTime": 44,
+                    "minDeliveryTime": 44,
+                    "maxDeliveryTime": 44,
+                    "slaString": "44 MINS",
+                    "lastMileTravel": 1.100000023841858,
+                    "slugs": {
+                      "restaurant": "chowman---ballygunge-place-south-kolkata-south-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "99, Ballygunge Place, Ballygunge Kolkata, West Bengal 700019",
+                    "locality": "Ballygunge",
+                    "parentId": 266,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.1 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "15% OFF",
+                      "subHeader": "ABOVE ₹1200",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "304650",
+                      "deliveryTime": 44,
+                      "minDeliveryTime": 44,
+                      "maxDeliveryTime": 44,
+                      "lastMileTravel": 1.100000023841858,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.5",
+                    "totalRatings": 5000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "3072",
+                    "name": "Jai Hind Dhaba-Hazra",
+                    "uuid": "e8a24809-4747-4f30-869e-9ebbfae5666b",
+                    "city": "7",
+                    "area": "Hazra",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "uhauzatrvlejfludtgud",
+                    "cuisines": [
+                      "North Indian",
+                      "Indian",
+                      "Tandoor",
+                      "Kebabs",
+                      "Punjabi",
+                      "Home Food",
+                      "Chinese"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 50000,
+                    "costForTwoString": "₹500 FOR TWO",
+                    "deliveryTime": 47,
+                    "minDeliveryTime": 47,
+                    "maxDeliveryTime": 47,
+                    "slaString": "47 MINS",
+                    "lastMileTravel": 2.0999999046325684,
+                    "slugs": {
+                      "restaurant": "jai-hind-dhaba-hazra-hazra-sarat-bose-road-area",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "3, Parvati Chakerbarti Lane, Kolkata-700026.",
+                    "locality": "Parvati Chakraborty Lane, Hazra",
+                    "parentId": 1928,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "2 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹125 OFF",
+                      "subHeader": "ABOVE ₹599",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "3072",
+                      "deliveryTime": 47,
+                      "minDeliveryTime": 47,
+                      "maxDeliveryTime": 47,
+                      "lastMileTravel": 2.0999999046325684,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "199142",
+                    "name": "Acs Chinese Flavour",
+                    "uuid": "20350b46-0f67-459a-8741-9a3c08cd82ec",
+                    "city": "7",
+                    "area": "Taltala",
+                    "totalRatingsString": "5000+ ratings",
+                    "cloudinaryImageId": "bdxngpdzohlfvsnrfkmr",
+                    "cuisines": [
+                      "Chinese"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 57,
+                    "minDeliveryTime": 57,
+                    "maxDeliveryTime": 57,
+                    "slaString": "57 MINS",
+                    "lastMileTravel": 4.300000190734863,
+                    "slugs": {
+                      "restaurant": "acs-chinese-flavour-esplanade-esplanade",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "8, Eliot Road, Taltala, Kolkata, West Bengal, India",
+                    "locality": "Esplanade",
+                    "parentId": 26894,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 4000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 4000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "4000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=6911612~p=13~eid=00000188-9bb4-ced2-098d-b1d100a00d7b",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "4.3 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹125 OFF",
+                      "subHeader": "ABOVE ₹249",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "199142",
+                      "deliveryTime": 57,
+                      "minDeliveryTime": 57,
+                      "maxDeliveryTime": 57,
+                      "lastMileTravel": 4.300000190734863,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "3.8",
+                    "totalRatings": 5000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "45099",
+                    "name": "KFC",
+                    "uuid": "a4f230cc-c692-4db8-a5f8-87fafaa535ea",
+                    "city": "7",
+                    "area": "Gariahat",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+                    "cuisines": [
+                      "Burgers",
+                      "Biryani",
+                      "American",
+                      "Snacks",
+                      "Fast Food"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 45000,
+                    "costForTwoString": "₹450 FOR TWO",
+                    "deliveryTime": 24,
+                    "minDeliveryTime": 24,
+                    "maxDeliveryTime": 24,
+                    "slaString": "24 MINS",
+                    "lastMileTravel": 0.800000011920929,
+                    "slugs": {
+                      "restaurant": "kfc-gariahat-south-kolkata",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "26 A Hindustan Park, Gariahat Kolkata-700029",
+                    "locality": "Hindustan Park",
+                    "parentId": 547,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "0.8 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "EVERY ITEM",
+                      "subHeader": "@ ₹179",
+                      "discountTag": "",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "45099",
+                      "deliveryTime": 24,
+                      "minDeliveryTime": 24,
+                      "maxDeliveryTime": 24,
+                      "lastMileTravel": 0.800000011920929,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "639308",
+                    "name": "BobS Enfield Bbq And Grill",
+                    "uuid": "85e4d0a4-1bc2-47a4-b375-f181bc45b333",
+                    "city": "7",
+                    "area": "Alipore",
+                    "totalRatingsString": "Too Few Ratings",
+                    "cloudinaryImageId": "ldko6rofdkodim6eeip5",
+                    "cuisines": [
+                      "Kebabs"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 50000,
+                    "costForTwoString": "₹500 FOR TWO",
+                    "deliveryTime": 54,
+                    "minDeliveryTime": 54,
+                    "maxDeliveryTime": 54,
+                    "slaString": "54 MINS",
+                    "lastMileTravel": 2.4000000953674316,
+                    "slugs": {
+                      "restaurant": "bob’s-enfield-bbq-and-grill-alipore-alipore",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "G8GV+XC9, Harish Mukherjee Rd, Jatin Das , Bhowanipore, Kolkata, West Bengal 700025, India",
+                    "locality": "Harish Mukherjee Rd",
+                    "parentId": 385771,
+                    "unserviceable": false,
+                    "veg": false,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "ribbon": [
+                      {
+                        "type": "PROMOTED"
+                      }
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "cid=6759187~p=16~eid=00000188-9bb4-ced2-098d-b1d200a0107f",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "2.4 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹100 OFF",
+                      "subHeader": "ABOVE ₹999",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "639308",
+                      "deliveryTime": 54,
+                      "minDeliveryTime": 54,
+                      "maxDeliveryTime": 54,
+                      "lastMileTravel": 2.4000000953674316,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": true,
+                    "avgRating": "--",
+                    "totalRatings": 0,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                },
+                {
+                  "type": "restaurant",
+                  "data": {
+                    "type": "F",
+                    "id": "3638",
+                    "name": "Gupta Brothers -Ballygunge",
+                    "uuid": "8ad9665f-b893-4cb1-8644-5b68478f7383",
+                    "city": "7",
+                    "area": "Ballygunge",
+                    "totalRatingsString": "10000+ ratings",
+                    "cloudinaryImageId": "s6osrxqumlqssg6wvu65",
+                    "cuisines": [
+                      "North Indian",
+                      "Chinese",
+                      "Desserts",
+                      "South Indian",
+                      "Indian",
+                      "Chaat",
+                      "Mexican"
+                    ],
+                    "tags": [
+                      
+                    ],
+                    "costForTwo": 30000,
+                    "costForTwoString": "₹300 FOR TWO",
+                    "deliveryTime": 41,
+                    "minDeliveryTime": 41,
+                    "maxDeliveryTime": 41,
+                    "slaString": "41 MINS",
+                    "lastMileTravel": 1.5,
+                    "slugs": {
+                      "restaurant": "gupta-brothers-bhawanipore-sarat-bose-road-area",
+                      "city": "kolkata"
+                    },
+                    "cityState": "7",
+                    "address": "22 Himadri Apartment, Park Road, Ballygunge, Kolkata",
+                    "locality": "Park Road",
+                    "parentId": 358878,
+                    "unserviceable": false,
+                    "veg": true,
+                    "select": false,
+                    "favorite": false,
+                    "tradeCampaignHeaders": [
+                      
+                    ],
+                    "chain": [
+                      
+                    ],
+                    "feeDetails": {
+                      "fees": [
+                        {
+                          "name": "distance",
+                          "fee": 3000,
+                          "message": ""
+                        },
+                        {
+                          "name": "time",
+                          "fee": 0,
+                          "message": ""
+                        },
+                        {
+                          "name": "special",
+                          "fee": 0,
+                          "message": ""
+                        }
+                      ],
+                      "totalFees": 3000,
+                      "message": "",
+                      "title": "Delivery Charge",
+                      "amount": "3000",
+                      "icon": ""
+                    },
+                    "availability": {
+                      "opened": true,
+                      "nextOpenMessage": "",
+                      "nextCloseMessage": ""
+                    },
+                    "longDistanceEnabled": 0,
+                    "rainMode": "NONE",
+                    "thirdPartyAddress": false,
+                    "thirdPartyVendor": "",
+                    "adTrackingID": "",
+                    "badges": {
+                      "imageBased": [
+                        
+                      ],
+                      "textBased": [
+                        
+                      ],
+                      "textExtendedBadges": [
+                        
+                      ]
+                    },
+                    "lastMileTravelString": "1.5 kms",
+                    "hasSurge": false,
+                    "aggregatedDiscountInfoV3": {
+                      "header": "₹125 OFF",
+                      "subHeader": "ABOVE ₹249",
+                      "discountTag": "FLAT DEAL",
+                      "headerTypeV2": 0
+                    },
+                    "loyaltyDiscoverPresentationInfo": {
+                      "logoCtx": {
+                        "text": "BENEFITS",
+                        "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                      },
+                      "freedelMessage": "FREE DELIVERY",
+                      "exclusiveOfferMessage": ""
+                    },
+                    "sla": {
+                      "restaurantId": "3638",
+                      "deliveryTime": 41,
+                      "minDeliveryTime": 41,
+                      "maxDeliveryTime": 41,
+                      "lastMileTravel": 1.5,
+                      "lastMileDistance": 0,
+                      "serviceability": "SERVICEABLE",
+                      "rainMode": "NONE",
+                      "longDistance": "NOT_LONG_DISTANCE",
+                      "preferentialService": false,
+                      "iconType": "EMPTY"
+                    },
+                    "promoted": false,
+                    "avgRating": "4.3",
+                    "totalRatings": 10000,
+                    "new": false
+                  },
+                  "subtype": "basic"
+                }
+              ],
+              "totalRestaurants": 1697
+            },
+            "subtype": "personalized"
+          },
+          "parentWidget": false
+        }
+      ],
+      "nextPageFetch": 0
+    },
+    "tid": "b2426b33-a17b-4034-a420-d444337fbf42",
+    "sid": "7il52be4-7b35-4745-8c3a-5379f778f3c0",
+    "deviceId": "3798b3ea-abdf-b5bc-3552-fee4d44563f3",
+    "csrfToken": "M0WliX2GjJPB-IJxIvvAPbGwMTQ_mdVeVk4nkMRA"
+}

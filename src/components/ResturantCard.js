@@ -1,11 +1,11 @@
 import { IMG_URL } from "../utils/constants";
 import { Link } from "react-router-dom";
-import { useContext } from "react";
-import UserContext from "../utils/UserContext";
+// import { useContext } from "react";
+// import UserContext from "../utils/UserContext";
 
 const ResturantCard = ({ resData }) => {
   // const {id,imgUrl,resturantName,cuisines,rating,deliveryTime,price,cloudinaryID} = resData;
-  const userInfo = useContext(UserContext);
+  // const userInfo = useContext(UserContext);
   const {
     id,
     name,
@@ -17,7 +17,7 @@ const ResturantCard = ({ resData }) => {
   } = resData;
   const cuisineString = cuisines.join(", ");
   return (
-    <Link to={"/resturant" + "/" + id}>
+    <Link data-testid="navigate-res-menu" to={"/resturant" + "/" + id}>
       <div className="w-64 h-72 mt-8 ml-5 mb-8 mr-5 p-5 relative hover:shadow-2xl hover:shadow-gray-700">
         <img className="w-60 h-40" src={IMG_URL + cloudinaryImageId}></img>
         <div className="text-base font-sans font-medium">{name}</div>

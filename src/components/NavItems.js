@@ -7,7 +7,10 @@ const NavItems = ({ itemName }) => {
   return (
     <div className="">
       <Link className="mr-28" to={itemName.split(" ").join("").toLowerCase()}>
-        <p className="text-center mt-7 font-medium font-sans text-lg">
+        <p
+          data-testid={itemName}
+          className="text-center mt-7 font-medium font-sans text-lg"
+        >
           {itemName === "Cart" ? itemName + " " + cartItems.length : itemName}
         </p>
       </Link>

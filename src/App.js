@@ -1,7 +1,7 @@
 /**
  * Here we will build a static ui for a food delivery app
  */
-import React, { createContext } from "react";
+import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
@@ -51,10 +51,10 @@ const appRouter = createBrowserRouter([
         path: "contactus",
         element: <Contact />,
       },
-      {
-        path: "profile",
-        element: <Profile />,
-      },
+      // {
+      //   path: "profile",
+      //   element: <Profile />,
+      // },
       {
         path: "cart",
         element: <Cart />,

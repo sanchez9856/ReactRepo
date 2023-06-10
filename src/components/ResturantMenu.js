@@ -15,13 +15,14 @@ const ResturantMenu = () => {
   return resturantMenuData === null ? (
     <Shimmer />
   ) : (
-    <div className="resturantmenu-container">
+    <div data-testid="restaurant-menu-div" className="resturantmenu-container">
       <h1>{resturantMenuData.title}</h1>
       <ul>
         {resturantMenuData?.itemCards?.map((data) => (
           <div className="">
             <li className="m-2 p-2">{data?.card?.info?.name}</li>
             <button
+              data-testid="menu-btn"
               type="submit"
               className=" bg-green-300 h-fit w-fit m-4"
               onClick={() => {

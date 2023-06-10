@@ -8,7 +8,12 @@ const Header = () => {
     <div className=" flex bg-green-200 justify-between shadow-md">
       <div className="logo-container">
         <Link to="/">
-          <img className="h-24 p-2 w-28" src={LOGO_URL} alt="app-logo" />
+          <img
+            data-testid="logo"
+            className="h-24 p-2 w-28"
+            src={LOGO_URL}
+            alt="app-logo"
+          />
         </Link>
       </div>
       <div className="flex justify-evenly">
